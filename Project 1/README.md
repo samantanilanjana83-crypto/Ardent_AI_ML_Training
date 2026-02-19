@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 AUTHOR
 
 **NILANJANA SAMANTA**
-- GitHub: [@your-username](https://github.com/programmer-sahil)
+- GitHub: [@your-username](https://github.com/samantanilanjana83-crypto)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-sahil)
 
 ---
